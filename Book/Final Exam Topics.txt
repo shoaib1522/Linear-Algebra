@@ -1,0 +1,4 @@
+Chp 2: 2.7 (up to Composite Transformations)
+Chp 4: 4.1 to 4.7
+Chp 5: 5.1 to 5.3
+Chp 6: 6.1 to 6.5 (Excluding Orthonormal Sets in 6.2 and QR factorization in 6.5))
